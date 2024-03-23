@@ -1,0 +1,24 @@
+version: '3.9'
+services:
+  ssh1.cyrhades.com:
+    build: 
+      context: ssh
+      args:
+        filename: message1.txt
+  ssh2.cyrhades.com:
+    build: 
+      context: ssh
+      args:
+        filename: message2.txt
+  webssh.cyrhades.com:
+    build: webssh
+    ports:
+      - "80:8888"
+  bugs-buggy-oracle.cyrhades.com:
+    image: anssi/fcsc2020-crypto-bugs-buggy-oracle:latest
+    ports:
+      - "4000:4000"
+  bugs-buggy-python.cyrhades.com:
+    image: anssi/fcsc2020-crypto-bugs-buggy-python:latest
+    ports:
+      - "4001:4000"
