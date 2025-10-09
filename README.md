@@ -30,7 +30,7 @@ Origine : [Bugs Buggy](https://hackropole.fr/fr/challenges/crypto/fcsc2020-crypt
 
 
 #### tentez 
-> nc bugs-buggy.cyrhades.com:4000
+> nc bugs-buggy.cyrhades.fr:4000
 
 
 -----------

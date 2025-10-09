@@ -9,8 +9,8 @@
 ░       ▒ ▒ ░░    ░░   ░  ░  ░░ ░  ░   ▒    ░ ░  ░    ░   ░  ░  ░  
 Bienvenue sur le serveur SSH de Cyrhades
 
-Utilisez netcat pour accéder au challenge sur le serveur bugs-buggy-oracle.cyrhades.com!
+Utilisez netcat pour accéder au challenge sur le serveur bugs-buggy-oracle.cyrhades.fr!
 
-*****:~$ nc bugs-buggy-oracle.cyrhades.com:4000
+*****:~$ nc bugs-buggy-oracle.cyrhades.fr:4000
 
 Bonne chance !
