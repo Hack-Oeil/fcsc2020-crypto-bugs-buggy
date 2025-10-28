@@ -20,7 +20,7 @@ Note : l’épreuve Bugs Buggy du FCSC 2020 a été découpée en deux pour Hack
 [python3.8](python3.8)
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Bugs Buggy](https://hackropole.fr/fr/challenges/crypto/fcsc2020-crypto-bugs-buggy/)
 
